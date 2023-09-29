@@ -1,0 +1,16 @@
+body{
+    font-family: 'Croissant One', cursive;
+}
+.name{
+    color: rgb(227, 166, 86);
+}
+.half_portion{
+    float: left;
+    width: 40%;
+    margin: 5%;
+    padding:auto;
+    
+}
+.half_portion img{
+    width: 100%;
+}
